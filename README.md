@@ -1,17 +1,17 @@
 # Hi there, I'm xNerf (ltj_) 👋
 
 ### 👨‍💻 About Me
-I'm a developer and enthusiast of clean code and efficient solutions. While you might know me as **xNerf** on GitHub, I also go by **ltj_** across the web. 
+I'm a developer focused on building clean, efficient, and logic-driven solutions. While my GitHub handle is **xNerf**, I am also known as **ltj_** across various platforms.
 
 * 💻 **OS**: Windows 11
-* 🎯 **Current Focus**: Building robust applications and exploring new technologies.
-* ⚡ **Fun Fact**: I prefer my code without unnecessary comments—just pure logic.
+* 🎯 **Current Focus**: Developing robust applications and exploring modern tech stacks.
+* ⚡ **Fun Fact**: I believe that well-written code speaks for itself—no unnecessary comments needed.
 
 ---
 
-### 🌐 My Portfolio
-You can check out my latest work and projects here:
-👉 [**Visit Portfolio**](http://83.168.107.4:6192/)
+### 🌐 Portfolio
+Check out my latest projects and work here:
+👉 [**View My Portfolio**](http://83.168.107.4:6192/)
 
 ---
 
@@ -19,13 +19,14 @@ You can check out my latest work and projects here:
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Operating System** | Windows 11 |
-| **Languages** | [Add your languages here, e.g., Python, JS, C++] |
+| **Languages** | [Add your languages, e.g., Python, C++, JavaScript] |
 | **Tools** | Git, VS Code, [Other tools] |
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Contact & Socials
 * **Discord ID**: `1384596242851434649`
+* **Portfolio**: [http://83.168.107.4:6192/](http://83.168.107.4:6192/)
 * **GitHub**: [xNerf](https://github.com/xNerf)
 * **Alias**: ltj_
 
