@@ -8,7 +8,6 @@ I am a young developer specializing in **web development**, **Minecraft plugins/
     * **Web Development**: UI/UX design and full-stack implementation using Node.js, Tailwind CSS, and HTML.
     * **Minecraft Programming**: Creating plugins and mods using Spigot, Paper, Adventure API, and PacketEvents.
     * **Modeling**: Crafting custom Minecraft models (items, blocks, armor) in Blockbench.
-* ⚡ **Fun Fact**: I prefer my code without unnecessary comments—just pure logic.
 
 ---
 
