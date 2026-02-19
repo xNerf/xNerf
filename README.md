@@ -1,17 +1,20 @@
 # Hi there, I'm xNerf (ltj_) 👋
 
 ### 👨‍💻 About Me
-I'm a developer focused on building clean, efficient, and logic-driven solutions. While my GitHub handle is **xNerf**, I am also known as **ltj_** across various platforms.
+I am a young developer specializing in **web development**, **Minecraft plugins/mods**, and **3D modeling**. I focus on creating clean, efficient, and logic-driven solutions. While my GitHub handle is **xNerf**, I am widely known as **ltj_**.
 
 * 💻 **OS**: Windows 11
-* 🎯 **Current Focus**: Developing robust applications and exploring modern tech stacks.
-* ⚡ **Fun Fact**: I believe that well-written code speaks for itself—no unnecessary comments needed.
+* 🛠️ **What I do**: 
+    * **Web Development**: UI/UX design and full-stack implementation using Node.js, Tailwind CSS, and HTML.
+    * **Minecraft Programming**: Creating plugins and mods using Spigot, Paper, Adventure API, and PacketEvents.
+    * **Modeling**: Crafting custom Minecraft models (items, blocks, armor) in Blockbench.
+* ⚡ **Fun Fact**: I prefer my code without unnecessary comments—just pure logic.
 
 ---
 
 ### 🌐 Portfolio
-Check out my latest projects and work here:
-👉 [**View My Portfolio**](http://83.168.107.4:6192/)
+Check out my latest work, including completed commissions and original projects:
+👉 [**Visit Portfolio**](http://83.168.107.4:6192/)
 
 ---
 
@@ -19,14 +22,15 @@ Check out my latest projects and work here:
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Operating System** | Windows 11 |
-| **Languages** | [Add your languages, e.g., Python, C++, JavaScript] |
-| **Tools** | Git, VS Code, [Other tools] |
+| **Web Dev** | Node.js, Tailwind CSS, HTML, JavaScript |
+| **Minecraft** | Spigot API, Paper API, Adventure API, PacketEvents, Blockbench |
+| **Languages** | Python, JavaScript, Rust |
+| **Tools** | VS Code, IntelliJ IDEA |
 
 ---
 
-### 🤝 Contact & Socials
-* **Discord ID**: `1384596242851434649`
-* **Portfolio**: [http://83.168.107.4:6192/](http://83.168.107.4:6192/)
+### 🤝 Connect with me
+* **Discord**: [ltj_ (Click to add)](https://discord.com/users/1384596242851434649)
 * **GitHub**: [xNerf](https://github.com/xNerf)
 * **Alias**: ltj_
 
@@ -34,3 +38,5 @@ Check out my latest projects and work here:
 
 ### 📊 GitHub Stats
 ![xNerf's GitHub stats](https://github-readme-stats.vercel.app/api?username=xNerf&show_icons=true&theme=transparent)
+
+<p align="right">© 2026 ltj_ • Built with code</p>
