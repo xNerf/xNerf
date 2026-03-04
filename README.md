@@ -5,9 +5,9 @@ I am a young developer specializing in **web development**, **Minecraft plugins/
 
 * 💻 **OS**: Windows 11
 * 🛠️ **What I do**: 
-    * **Web Development**: UI/UX design and full-stack implementation using Node.js, Tailwind CSS, Bun and HTML.
+    * **Web Development**: UI/UX design and implementation using Node.js, Tailwind CSS, Bun and HTML.
     * **Minecraft Programming**: Creating plugins and mods using Spigot, Paper, Adventure API, and PacketEvents.
-    * **Modeling**: Crafting custom Minecraft models (items, blocks, armor) in Blockbench.
+    * **Modeling**: Creating custom Minecraft models (items, blocks, armor) in Blockbench.
 
 ---
 
@@ -32,4 +32,4 @@ I am a young developer specializing in **web development**, **Minecraft plugins/
 ### 📊 GitHub Stats
 ![xNerf's GitHub stats](https://github-readme-stats.vercel.app/api?username=xNerf&show_icons=true&theme=transparent)
 
-<p align="right">© 2026 ltj_ • Built with code</p>
+<p align="right">ltj_ • 2026</p>
